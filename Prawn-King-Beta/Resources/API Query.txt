@@ -1,0 +1,8 @@
+Query String - https://localhost:44374/api/DAL?function=&id=&username=&password=&fname=&lname=&phone=&data=
+Functions - testConn	**bool return**
+	  - tryLogin(String Username, String Password)	**bool return**
+	  - checkUsername(String Username)	**bool return**
+	  - getTankID(String UserID)	**String TankID return**
+	  - getTankData(String TankID) **String XMLdata return**
+	  - createAccount(String Username, String Password, String FirstName, String LastName, String PhoneNumber)	**bool return**
+	  - insertData(String TankID, String Data)	**bool return**

@@ -1,0 +1,13 @@
+MSSQL EXPRESS ON LOCALHOST
+	SQL DB - pkdb
+		Table - pkUC - User Control Accounts/Info
+		Table - pkDT - Data TankCSV
+		Stored Procedure - GETID - Gets ID from given Username and Hash
+		Stored Procedure - USEREXISTS- Checks if user exists from given Username
+		Stored Procedure - ADDUSER - Adds new user if does not exist given Username and PHash at minimum
+		Stored Procedure - MKADMIN - Makes user with given UserID an admin if the user requesting the changes is an admin themself, given Username and PHash
+		Stored Procedure - UINFO - Alters Fname and Lname given Username and PHash
+CONSOLE APP DAL DEVELOPMENT
+	CONSOLE APP - PK DAL Tester
+		Checks all stored procedure and connection functionality between DAL and SQL Server
+		DAL.cs - DAL class for use across all .net applications
