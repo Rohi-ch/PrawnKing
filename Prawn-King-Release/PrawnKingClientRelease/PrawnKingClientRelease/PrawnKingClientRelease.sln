@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrawnKingClientRelease", "PrawnKingClientRelease\PrawnKingClientRelease.csproj", "{DDAF55EE-2DE8-4916-BDE1-35667B292C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAF55EE-2DE8-4916-BDE1-35667B292C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAF55EE-2DE8-4916-BDE1-35667B292C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAF55EE-2DE8-4916-BDE1-35667B292C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAF55EE-2DE8-4916-BDE1-35667B292C65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A21EF30B-F2F3-4BC3-9F2B-AA484EC9E4AE}
+	EndGlobalSection
+EndGlobal

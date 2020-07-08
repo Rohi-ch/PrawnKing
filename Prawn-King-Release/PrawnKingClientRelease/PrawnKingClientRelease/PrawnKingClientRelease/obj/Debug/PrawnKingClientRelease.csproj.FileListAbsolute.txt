@@ -1,0 +1,19 @@
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\bin\Debug\PrawnKingClientRelease.exe.config
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\bin\Debug\PrawnKingClientRelease.exe
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\bin\Debug\PrawnKingClientRelease.pdb
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.csprojAssemblyReference.cache
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.ClientDash.resources
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.Properties.Resources.resources
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.csproj.GenerateResource.cache
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.csproj.CoreCompileInputs.cache
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.exe
+C:\Users\Rohan Chikkam\Desktop\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.pdb
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\bin\Debug\PrawnKingClientRelease.exe.config
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.exe
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.pdb
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\bin\Debug\PrawnKingClientRelease.exe
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\bin\Debug\PrawnKingClientRelease.pdb
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.ClientDash.resources
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.Properties.Resources.resources
+C:\Users\Administrator\Nextcloud\PrawnKingClientRelease\PrawnKingClientRelease\obj\Debug\PrawnKingClientRelease.csproj.GenerateResource.Cache
